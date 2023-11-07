@@ -1,0 +1,31 @@
+[
+    {
+        "uid":  "Q-1",
+        "questName":"Clear Bandits",
+        "questDescription":"Kill Bandits located on the south of the camp",
+        "questGiver":"0625f612-497b-4a47-bf96-c9f7be5e8fef",
+        "type": "HUNT",
+        "experience":100,
+        "gold":10,
+        "targets":[
+            "b8b04f19-615a-4e80-96e0-e406e3d093d4",
+            "6b057c93-714c-482e-9140-1f9063dee964"],
+        "targetCount":3,
+        "exploreLoc":null,
+        "talkto":null
+    },
+    {
+        "uid":  "Q-2",
+        "questName":"Kill the Boss",
+        "questDescription":"Kill Bandits boss located on the north of the camp",
+        "questGiver":"5c881cd7-382f-429a-b902-86fbf8b859c9",
+        "type": "HUNT",
+        "experience":200,
+        "gold":20,
+        "targets":["6b057c93-714c-482e-9140-1f9063dee964"],
+        "targetCount":1,
+        "exploreLoc":null,
+        "talkto":null
+    }
+]
+

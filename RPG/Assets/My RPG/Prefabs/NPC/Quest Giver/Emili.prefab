@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &651601001990780877
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2352324152302449703, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_Name
+      value: Emili
+      objectReference: {fileID: 0}
+    - target: {fileID: 2352324152302449703, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_TagString
+      value: QuestGiver
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -43.168392
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -42.939613
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2355044448112608417, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.welcomeText
+      value: HI!! SUP???
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[0].playerText
+      value: Looking for job
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[1].playerText
+      value: Mind your own business
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[2].playerText
+      value: Just passing by!!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[1].isAlwaysAsked
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[2].isAlwaysAsked
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[0].answer.npcText
+      value: Bandits!! Bounty!! Can you handle it??
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[0].answer.questId
+      value: Q-1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[1].answer.npcText
+      value: You wont survive long with that attitude kid!!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[2].answer.npcText
+      value: Travel safe my friend
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[1].answer.forceQuit
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2538843218555803590, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+      propertyPath: dialogue.queries.Array.data[2].answer.forceQuit
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 2042903595915967959, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+--- !u!1 &3003850317088277482 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2352324152302449703, guid: 5e7e0bf13c09c684ba0c9d24b53c2369, type: 3}
+  m_PrefabInstance: {fileID: 651601001990780877}
+  m_PrefabAsset: {fileID: 0}
+--- !u!136 &1404557456
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3003850317088277482}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 1.75
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.875, z: 0}
+--- !u!114 &1404557455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3003850317088277482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e01aaefe142e4d842af9e040e9e5dcfa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uid: 0625f612-497b-4a47-bf96-c9f7be5e8fef
